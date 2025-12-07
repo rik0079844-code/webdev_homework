@@ -1,0 +1,12 @@
+body {
+    font-size: 24px;
+}
+span.small {
+    font-size: 30px;
+}
+span.medium {
+    font-size: 40px;
+}
+span.large {
+    font-size: 50px;
+}
